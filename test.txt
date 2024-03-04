@@ -1,3 +1,3 @@
 This is test code for student only, Thanks.
 テスト用のコードの説明です。
-現在学習中ですので、内容ご容赦お願いします。
+現在を学習中ですので、内容ご容赦お願いします。
